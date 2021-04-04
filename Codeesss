@@ -9,7 +9,7 @@ import requests
 #ne eklemek isterseniz eğer kurulu değil ise requirements.txt satır olarak ekleyin youtube-dl,mechanize,bs4,....
 
 
-TOKEN='TELEGRAM-TOKEN'
+TOKEN='1716068298:AAF_WQrVuYSVZUupw-T4GHZzhqIjQ_EhO5c'
 def selam():
    bot.sendMessage(chat_id,"iyiyim, sen nasılsın \xF0\x9F\x98\x8C ",parse_mode='Markdown') 
    
